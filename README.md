@@ -1,3 +1,3 @@
 # React-Todo-List
 
-A todo list i created while learning Javascripts React library for building User Interfaces
+A todo list I created while learning Javascripts React library for building User Interfaces
